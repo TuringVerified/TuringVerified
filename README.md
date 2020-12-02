@@ -1,7 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**amay428/amay428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Amay and I'm a student
+
+
+#### My main language is Python and I am currently learning ML
+
+###### Here is some of the stuff I am working on/done:
+
+- [Perspectives](https://github.com/Gaffclant/codejam): A 16 bit shooter game in python for a codejam  which I made with a friend.
+- [Hotdog classifier](https://github.com/amay428/Hotdog-or-not): A fun ML model I built inspired from the app, 'seefood' in the webshow, 'Silicon Valley'
+- [Covid evaluation bot](https://github.com/amay428/Covid-19-EvaluationBot): Voice based evaluation bot that tries to asess you risk level of covid by asking a few simple questions
+
+#### I'd love to collaborate if anyone wants to
+#### You can reach me at my email or @amay428#5635 on discord
+
+#### Thanks for visiting my profile :D
+
+
+
+<!--**amay428/amay428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
