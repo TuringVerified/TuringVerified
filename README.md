@@ -1,4 +1,4 @@
-<img src="https://github.com/amay428/amay428/blob/main/Hello_World!.png?raw=true" alt="Hello World!">
+<img src="https://github.com/amay428/amay428/blob/main/banner.png?raw=true" alt="Hello World!">
 
 #### My name is Amay and I'm a student
 
