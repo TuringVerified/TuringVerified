@@ -11,8 +11,6 @@
 - [Hotdog classifier](https://github.com/amay428/Hotdog-or-not): A fun ML model I built inspired from the app, 'seefood' in the webshow, 'Silicon Valley'
 - [Covid evaluation bot](https://github.com/amay428/Covid-19-EvaluationBot): Voice based evaluation bot that tries to asess you risk level of covid by asking a few simple questions
 
-![](https://gph.is/g/E11gYdq)
-
 #### I'd love to collaborate if anyone wants to
 #### You can reach me at my email or @amay428#5635 on discord 
 
