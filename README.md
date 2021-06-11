@@ -14,7 +14,7 @@
 ![Profile views](https://gpvc.arturio.dev/amay428?v=3)
 
 #### I'd love to collaborate if anyone wants to
-#### You can reach me at my email or @amay428#5635 on discord 
+#### You can reach me at my email or @amay428#0001 on discord 
 
 #### http://www.amay428.ml/
 
