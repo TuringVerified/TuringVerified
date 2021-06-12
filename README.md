@@ -1,6 +1,6 @@
 <img src="https://github.com/amay428/amay428/blob/main/banner.png?raw=true" alt="Hello World!">
 
-#### My name is Amay and I'm a student
+#### My name is dipityli and I'm a student
 
 
 #### My main language is Python and I am currently learning ML
@@ -16,23 +16,6 @@
 #### I'd love to collaborate if anyone wants to
 #### You can reach me at my email or @amay428#0001 on discord 
 
-#### http://www.amay428.ml/
-
 #### Thanks for visiting my profile
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=amay428&count_private=true&theme=tokyonight&showicons=true)]()
-
-
-<!--**amay428/amay428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dipityli&count_private=true&theme=tokyonight&showicons=true)]()
