@@ -12,7 +12,7 @@
 - [Covid evaluation bot](https://github.com/amay428/Covid-19-EvaluationBot): Voice based evaluation bot that tries to asess you risk level of covid by asking a few simple questions
 
 #### I'd love to collaborate if anyone wants to
-#### You can reach me at my email or @tatele#0001 on discord 
+#### You can reach me at my email or @BIOS Kebabs#0001 on discord 
 
 #### Thanks for visiting my profile
 
