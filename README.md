@@ -13,7 +13,14 @@
 
 #### I'd love to collaborate if anyone wants to
 #### You can reach me at my email or @tatele#0001 on discord 
+#### You can also visit my [portfolio/blog site](https://dipityli.ml).
 
 #### Thanks for visiting my profile
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dipityli&count_private=true&theme=tokyonight&showicons=true)]()
+
+
+[![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=Python&logoColor=black")](https://www.python.org)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=black)](https://git-scm.com)
+[![Rust](https://img.shields.io/badge/-Rust-F05032?style=for-the-badge&logo=Rust&logoColor=black)](https://rust-lang.org)
+[![Linux](https://img.shields.io/badge/-Linux-F05032?style=for-the-badge&logo=Linux&logoColor=black)](https://rust-lang.org)
