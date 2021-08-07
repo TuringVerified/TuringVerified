@@ -14,6 +14,7 @@
 #### I'd love to collaborate if anyone wants to
 #### You can reach me at my email or @tatele#0001 on discord 
 #### You can also visit my [portfolio/blog site](https://dipityli.ml).
+#### Mastodon: https://mas.to/web/accounts/106713815343227913
 
 #### Thanks for visiting my profile
 
