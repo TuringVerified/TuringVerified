@@ -24,4 +24,4 @@
 [![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=Python&logoColor=black")](https://www.python.org)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=black)](https://git-scm.com)
 [![Rust](https://img.shields.io/badge/-Rust-F05032?style=for-the-badge&logo=Rust&logoColor=black)](https://rust-lang.org)
-[![Linux](https://img.shields.io/badge/-Linux-F05032?style=for-the-badge&logo=Linux&logoColor=black)](https://rust-lang.org)
+[![Linux](https://img.shields.io/badge/-Linux-F05032?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/torvalds/linux)
