@@ -14,8 +14,7 @@
 #### I'd love to collaborate if anyone wants to
 #### You can reach me at my email or @balzaen#0959 on discord 
 #### You can also visit my [portfolio/blog site](https://dipityli.ml).
-#### Mastodon: https://mas.to/web/accounts/106713815343227913
-
+#### Mastodon: https://mas.to/@keouck
 #### Thanks for visiting my profile
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dipityli&count_private=true&theme=tokyonight&showicons=true)]()
