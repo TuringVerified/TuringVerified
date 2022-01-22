@@ -18,6 +18,7 @@
 #### Thanks for visiting my profile
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dipityli&count_private=true&theme=tokyonight&showicons=true)]()
+[![ArkAngeL's github activity graph](https://activity-graph.herokuapp.com/graph?username=dipityli&theme=react-dark)](https://github.com/dipityli)
 
 
 [![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=Python&logoColor=black")](https://www.python.org)
