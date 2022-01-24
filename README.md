@@ -20,7 +20,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=keouck&count_private=true&theme=tokyonight&showicons=true)]()
 
 &nbsp;
-[![ArkAngeL's github activity graph](https://activity-graph.herokuapp.com/graph?username=keouck&theme=react-dark)](https://github.com/dipityli)
+[![Keouck's github activity graph](https://activity-graph.herokuapp.com/graph?username=keouck&theme=react-dark)](https://github.com/dipityli)
 
 
 [![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=Python&logoColor=black")](https://www.python.org)
