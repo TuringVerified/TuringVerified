@@ -7,7 +7,6 @@
 
 ###### Here is some of the stuff I am working on/done:
 
-- [ModiBlock](https://github.com/keouck/ModiBlock): AdBlock, but for images of our supreme leader.
 - [Perspectives](https://github.com/Gaffclant/codejam): A 16 bit shooter game in python for a codejam  which I made with a friend.(@nic-gaffney, check his profile out too)
 - [Hotdog classifier](https://github.com/keouck/Hotdog-or-not): A fun ML model I built inspired from the app, 'seefood' in the webshow, 'Silicon Valley'
 - [Covid evaluation bot](https://github.com/keouck/Covid-19-EvaluationBot): Voice based evaluation bot that tries to asess you risk level of covid by asking a few simple questions
