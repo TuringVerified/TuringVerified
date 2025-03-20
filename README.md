@@ -6,7 +6,7 @@
 
 ###### Here are some of my past projects:
 
-- [OEaaS](https://github.com/TuringVerified/OEaaS): A clone of the is-odd/is-even library, but as a SaaS.
+- [OEaaS](https://github.com/TuringVerified/OEaaS): A clone of the is-odd/is-even library, but as a SaaS using ✨AI✨.
 - [Homepage](https://github.com/TuringVerified/homepage): This is my home on the internet! Have a look at https://turingtested.xyz
 
 #### Here's some of my socials
